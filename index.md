@@ -25,6 +25,13 @@ The analysis shows a long-term decline in the total fertility rate, from 1,281 l
 - **Project repository:** [Hong Kong Fertility Trends](https://github.com/XIANHAORAN-mc642513/data-science-project)
 - **Status:** Completed exploratory analysis; future improvements are planned.
 
+### CISC7204 Assignment 02: Data Visualization with Python
+
+This coursework covers data preparation, statistical graphics, geospatial visualizations, and interactive dashboards across five modules. It includes notebooks, Dash source code, supporting datasets, and screenshots.
+
+- **Coursework files:** [CISC7204 Assignment 02](cisc7204-Assgn02-2026-mc642513/)
+- **Collaboration:** Pair work with Guo Qizhen (MC642380); individual artifacts are identified in the files.
+
 ## Contact
 
 The source code and data documentation for this project are available in the linked repository.
