@@ -1,0 +1,13 @@
+﻿outcome,timing,n,block_length,replications,seed,pearson_ci_low,pearson_ci_high,crosses_zero
+median_age_change_male,same_year,29,2,10000,20261106,-0.7752354546,-0.07858197175,False
+median_age_change_male,lag1,29,2,10000,20261106,-0.7014736104,-0.09024996807,False
+median_age_change_female,same_year,29,2,10000,20261106,-0.5217512032,0.151416713,True
+median_age_change_female,lag1,29,2,10000,20261106,-0.6601133205,-0.1660335592,False
+median_age_change_male,same_year,29,3,10000,20261106,-0.7620279673,-0.08333359769,False
+median_age_change_male,lag1,29,3,10000,20261106,-0.7273265149,-0.088593523,False
+median_age_change_female,same_year,29,3,10000,20261106,-0.4791992624,0.131730021,True
+median_age_change_female,lag1,29,3,10000,20261106,-0.6449450956,-0.1861345097,False
+median_age_change_male,same_year,29,4,10000,20261106,-0.7540836836,-0.09069464696,False
+median_age_change_male,lag1,29,4,10000,20261106,-0.725507991,-0.09148045668,False
+median_age_change_female,same_year,29,4,10000,20261106,-0.4648031715,0.1243119909,True
+median_age_change_female,lag1,29,4,10000,20261106,-0.6294337423,-0.210117714,False

@@ -1,0 +1,22 @@
+{
+  "rows": 29,
+  "full_years": "1997–2025",
+  "missing_cells": 0,
+  "raw_files_sha256_checked": 3,
+  "prices_and_growth_values_checked": 87,
+  "median_levels_checked": 58,
+  "integer_tenth_age_differences_checked": 58,
+  "age_shares_and_changes_checked": 232,
+  "models_checked": 12,
+  "primary_family": "4 models, Holm",
+  "exploratory_age_share_family": "8 models, BH",
+  "strict_pandemic_samples": {
+    "same_year": 25,
+    "lag1": 24
+  },
+  "notebook_executed_code_cells": 8,
+  "notebook_errors": 0,
+  "main_figures": 9,
+  "appendix_figures": 6,
+  "hac_crosscheck": "Consecutive samples verified against statsmodels; missing-year samples retain calendar gaps."
+}

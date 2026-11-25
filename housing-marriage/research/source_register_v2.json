@@ -1,0 +1,29 @@
+[
+  {
+    "file": "rvd_price_indices.xls",
+    "url": "https://www.rvd.gov.hk/doc/en/statistics/his_data_4.xls",
+    "selection": "Annual sheet, All Classes; index base 1999=100",
+    "coverage_in_download": "1980–2025 (annual sheet)",
+    "notes": "Primary sales excluded. Earlier rebased indices may differ slightly due to rounding. All New Territories districts included since Q1 1987.",
+    "access_date_local": "2026-11-06 Asia/Shanghai",
+    "sha256": "f772e0809080192e4ee2ddc3d8d6c95b6cdf5abed9747a8a5c58910662a58d8b"
+  },
+  {
+    "file": "115-01011.json",
+    "url": "https://www.censtatd.gov.hk/api/get.php?full_series=1&id=115-01011&lang=en",
+    "selection": "sv=MED_AGE_1STM; SEX=M,F; freq=Y; unit years",
+    "coverage_in_download": "1961–2025 (entire table; individual indicators may have missing early years)",
+    "notes": "No sd_value status markers for selected median-age observations in 1997–2025. Do not apply notes for other indicators to this series.",
+    "access_date_local": "2026-11-06 Asia/Shanghai",
+    "sha256": "1a281e7e2841f0c392f0af2bd4eb44d8dc93fa17b2609a0dbe164bd7d954be17"
+  },
+  {
+    "file": "115-01013.json",
+    "url": "https://www.censtatd.gov.hk/api/get.php?full_series=1&id=115-01013&lang=en",
+    "selection": "sv=PMFT; SEX=M,F; AGE empty=official total; AGE=25-29,30-34",
+    "coverage_in_download": "1986–2025",
+    "notes": "Unit persons, not couples. All age groups reconcile to official totals. No sd_value status markers in selected 1997–2025 observations.",
+    "access_date_local": "2026-11-06 Asia/Shanghai",
+    "sha256": "57d6457ec698e10baf8b815ee7ee9e973cbf8ddcd53a3ca62d929219abf4aac7"
+  }
+]

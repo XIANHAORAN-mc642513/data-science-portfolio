@@ -1,0 +1,11 @@
+{
+  "annual_rows": 29,
+  "level_window": "1997–2025",
+  "comparison_window": "1997–2025",
+  "comparison_n": 29,
+  "missing_cells": 0,
+  "missing_explanation": "No missing selected observations. 1995–1996 serve as calculation baselines.",
+  "baseline_year_for_changes": 1996,
+  "additional_price_year_for_lag": 1995,
+  "duplicate_years": 0
+}

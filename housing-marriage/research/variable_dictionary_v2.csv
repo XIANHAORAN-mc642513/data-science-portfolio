@@ -1,0 +1,22 @@
+﻿variable,definition,unit
+price_index,Official annual All Classes private domestic price index,1999=100
+median_age_female,Official median age at first marriage by sex,years
+median_age_male,Official median age at first marriage by sex,years
+first_marriage_total_male,Official first-marrying persons for specified sex and age group or total,persons
+first_marriages_male_25_29,Official first-marrying persons for specified sex and age group or total,persons
+share_male_25_29_pct,100*selected age-group persons / all first-marrying persons of same sex and year,%
+share_change_male_25_29_pp,Current minus previous calendar year share,percentage points
+first_marriages_male_30_34,Official first-marrying persons for specified sex and age group or total,persons
+share_male_30_34_pct,100*selected age-group persons / all first-marrying persons of same sex and year,%
+share_change_male_30_34_pp,Current minus previous calendar year share,percentage points
+median_age_change_male,Current minus previous calendar year median age,years
+first_marriage_total_female,Official first-marrying persons for specified sex and age group or total,persons
+first_marriages_female_25_29,Official first-marrying persons for specified sex and age group or total,persons
+share_female_25_29_pct,100*selected age-group persons / all first-marrying persons of same sex and year,%
+share_change_female_25_29_pp,Current minus previous calendar year share,percentage points
+first_marriages_female_30_34,Official first-marrying persons for specified sex and age group or total,persons
+share_female_30_34_pct,100*selected age-group persons / all first-marrying persons of same sex and year,%
+share_change_female_30_34_pp,Current minus previous calendar year share,percentage points
+median_age_change_female,Current minus previous calendar year median age,years
+price_change_pct,100*(P_t/P_(t-1)-1),%
+price_change_lag1_pct,Previous calendar year price_change_pct,%
